@@ -1,0 +1,7 @@
+customer_id,first_name,last_name,email_address,age,annual_income,signup_date,city
+1001,Alice,Johnson,alice@example.com,34,72000,2024-01-15,New York
+1002,Bob,Smith,bob@example.com,,58000,2024-02-03,Chicago
+1003,Carla,Gomez,carla@example.com,29,,2024-02-19,Austin
+1005,Eva,Brown,eva@example.com,52,66000,,Boston
+1006,Frank,Miller,frank@example.com,38,,2024-04-12,Denver
+1008,Henry,Adams,henry@example.com,,83000,2024-05-21,Miami

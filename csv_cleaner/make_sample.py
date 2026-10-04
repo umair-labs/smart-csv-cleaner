@@ -1,0 +1,10 @@
+# make_sample.py - writes a deliberately awkward file: semicolons, cp1252 encoding, dd/mm/yyyy dates
+rows = """ID;Nombre;Fecha de Registro;Ingreso Mensual;Ciudad
+1;José;15/01/2024;$1,200;Málaga
+2;María ;03/02/2024;$1,450;Sevilla
+3;Andrés;22/02/2024;;Madrid
+4;José;15/01/2024;$1,200;Málaga
+5;Lucía;not a date;$980;Valencia
+"""
+with open("data/raw/messy_spanish.csv", "w", encoding="cp1252", newline="") as f:
+    f.write(rows)

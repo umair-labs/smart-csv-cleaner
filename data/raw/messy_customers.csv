@@ -1,0 +1,11 @@
+Customer ID, First Name ,LAST NAME,Email Address,Age,Annual Income,Signup Date,City
+1001,  Alice ,Johnson,alice@example.com,34,72000,2024-01-15,New York
+1002,Bob,Smith ,bob@example.com,,58000,2024-02-03,Chicago
+1003,Carla,Gomez,carla@example.com,29,,2024-02-19, Austin
+1004,David,Lee,N/A,41,91000,2024-03-07,Seattle
+1005,Eva,Brown,eva@example.com,52,66000,,Boston
+1001,Alice,Johnson,alice@example.com,34,72000,2024-01-15,New York
+1006,Frank,Miller,frank@example.com,38,,2024-04-12,Denver
+1007,Grace,Hall,,26,48000,2024-04-30,
+1002,Bob,Smith,bob@example.com,,58000,2024-02-03,Chicago
+1008,Henry,Adams,henry@example.com,,83000,2024-05-21,Miami
